@@ -1,5 +1,5 @@
-from soundex.soundex import category
+from soundex.soundex import query_soundex
 
 
 print("Hello world!")
-print(category)
+print(query_soundex("سلام عزیزم چطوری"))
